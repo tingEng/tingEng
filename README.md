@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @tingEng, based in New York City
-- 👀 I’m interested in food! Bubble tea & Movie!!!
-- 🌱 I’m a full-stack programmer
+- 👋 Hi, I’m an experienced Software Engineer, based in New York City
+- 👀 I’m interested in food, Bubble tea & Movie!!!
 - ⚡ Fun fact: I have 5 cats at home, meow~
 
 <!---
